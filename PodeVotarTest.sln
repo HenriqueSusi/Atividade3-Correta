@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodeVotarTest", "PodeVotarTest\PodeVotarTest.csproj", "{ECA1334F-8969-4228-9AE0-A8FB2F4EF8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoderVotarCalc", "PoderVotarCalc\PoderVotarCalc.csproj", "{5EBD35D0-DE5D-405A-9573-DE374CA8B61E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA1334F-8969-4228-9AE0-A8FB2F4EF8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA1334F-8969-4228-9AE0-A8FB2F4EF8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA1334F-8969-4228-9AE0-A8FB2F4EF8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA1334F-8969-4228-9AE0-A8FB2F4EF8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBD35D0-DE5D-405A-9573-DE374CA8B61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBD35D0-DE5D-405A-9573-DE374CA8B61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBD35D0-DE5D-405A-9573-DE374CA8B61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBD35D0-DE5D-405A-9573-DE374CA8B61E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDD60F1-9881-431B-8AFD-5B9EAD9FCA0B}
+	EndGlobalSection
+EndGlobal

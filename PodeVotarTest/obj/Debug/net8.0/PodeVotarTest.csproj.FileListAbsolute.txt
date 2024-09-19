@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\bin\Debug\net8.0\PodeVotarTest.deps.json
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\bin\Debug\net8.0\PodeVotarTest.dll
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\bin\Debug\net8.0\PodeVotarTest.pdb
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.dll
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\refint\PodeVotarTest.dll
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\PodeVotarTest.pdb
+C:\Users\SENAI3EM\Desktop\PodeVotarTest\PodeVotarTest\obj\Debug\net8.0\ref\PodeVotarTest.dll
